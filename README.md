@@ -8,9 +8,9 @@ A database like this might be updated and queried by an inventory management app
 
 *This project comes from a list of projects available within the **Data Engineer** Career Path.*
 
-To review the Database Schema please refer to [Database](/Inventory_Management_System_Database/Database/table_schema.sql) folder. To review Database Constraints, please refer to the file inside of the folder, as well.
+To review the Database Schema please refer to [Database](/Database/table_schema.sql) folder. To review Database Constraints, please refer to the file inside of the folder, as well.
 
-To review the `CSV` files associated with this project, please refer to the [Asset_Files](/Inventory_Management_System_Database/Assets_Files) folder.
+To review the `CSV` files associated with this project, please refer to the [Asset_Files](/Assets_Files/) folder.
 
 
 We ensure the following steps of the project is completed:
